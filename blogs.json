@@ -1,0 +1,62 @@
+[
+    {
+        "imgSrc": "assets/rblog-1.jpg",
+        "tag": "LEADERSHIP",
+        "uploadTime": "2 days ago",
+        "readTime": "3 min read",
+        "title": "7 Secret For Leadership Success",
+        "snippet": "lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto asperiores quod inventore esse reprehenderit facilis animi possimus consectetur id ipsa aut natus recusandae, nesciunt vitae maiores blanditiis ut mollitia nulla Quod fugit totam tenetur dolor facere quisquam, minima explicabo blanditiis eos, quae hic obcaecati voluptates beatae cupiditate eius quis... ",
+        "comments": 10,
+        "likes": 10
+    },
+    {
+        "imgSrc": "assets/rblog-2.jpg",
+        "tag": "HABIT",
+        "uploadTime": "2 days ago",
+        "readTime": "3 min read",
+        "title": "Est dignissimos perspiciatis nam eos",
+        "snippet": "lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto asperiores quod inventore esse reprehenderit facilis animi possimus consectetur id ipsa aut natus recusandae, nesciunt vitae maiores blanditiis ut mollitia nulla Quod fugit totam tenetur dolor facere quisquam, minima explicabo blanditiis eos, quae hic obcaecati voluptates beatae cupiditate eius quis... ",
+        "comments": 10,
+        "likes": 10
+    },
+    {
+        "imgSrc": "assets/rblog-1.jpg",
+        "tag": "LEADERSHIP",
+        "uploadTime": "2 days ago",
+        "readTime": "3 min read",
+        "title": "7 Secret For Leadership Success",
+        "snippet": "lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto asperiores quod inventore esse reprehenderit facilis animi possimus consectetur id ipsa aut natus recusandae, nesciunt vitae maiores blanditiis ut mollitia nulla Quod fugit totam tenetur dolor facere quisquam, minima explicabo blanditiis eos, quae hic obcaecati voluptates beatae cupiditate eius quis... ",
+        "comments": 10,
+        "likes": 10
+    },
+    {
+        "imgSrc": "assets/rblog-2.jpg",
+        "tag": "HABIT",
+        "uploadTime": "2 days ago",
+        "readTime": "3 min read",
+        "title": "Est dignissimos perspiciatis nam eos",
+        "snippet": "lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto asperiores quod inventore esse reprehenderit facilis animi possimus consectetur id ipsa aut natus recusandae, nesciunt vitae maiores blanditiis ut mollitia nulla Quod fugit totam tenetur dolor facere quisquam, minima explicabo blanditiis eos, quae hic obcaecati voluptates beatae cupiditate eius quis... ",
+        "comments": 10,
+        "likes": 10
+    },
+    {
+        "imgSrc": "assets/rblog-1.jpg",
+        "tag": "LEADERSHIP",
+        "uploadTime": "2 days ago",
+        "readTime": "3 min read",
+        "title": "7 Secret For Leadership Success",
+        "snippet": "lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto asperiores quod inventore esse reprehenderit facilis animi possimus consectetur id ipsa aut natus recusandae, nesciunt vitae maiores blanditiis ut mollitia nulla Quod fugit totam tenetur dolor facere quisquam, minima explicabo blanditiis eos, quae hic obcaecati voluptates beatae cupiditate eius quis... ",
+        "comments": 10,
+        "likes": 10
+    },
+    {
+        "imgSrc": "assets/rblog-2.jpg",
+        "tag": "HABIT",
+        "uploadTime": "2 days ago",
+        "readTime": "3 min read",
+        "title": "Est dignissimos perspiciatis nam eos",
+        "snippet": "lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto asperiores quod inventore esse reprehenderit facilis animi possimus consectetur id ipsa aut natus recusandae, nesciunt vitae maiores blanditiis ut mollitia nulla Quod fugit totam tenetur dolor facere quisquam, minima explicabo blanditiis eos, quae hic obcaecati voluptates beatae cupiditate eius quis... ",
+        "comments": 10,
+        "likes": 10
+    }
+]
